@@ -225,4 +225,4 @@ MeisterTask is available as a full free version with all features and updates in
 Download MeisterTask today and take control of your project management needs!
 
 ---
-**Last updated:** 2026-09-16 12:17:13 UTC
+**Last updated:** 2026-09-16 17:21:52 UTC
